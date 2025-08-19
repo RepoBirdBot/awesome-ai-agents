@@ -5098,7 +5098,7 @@ One-Shot Issue to PR with Complete Git Automation
 
 <details>
 
-![RepoBird CLI](https://img.shields.io/badge/RepoBird-CLI-00ADD8?style=flat&logo=github)
+![RepoBird](https://repobird.ai/assets/images/repobird-banner.png)
 
 ### Category
 Coding, Developer Tools, General purpose, Productivity
